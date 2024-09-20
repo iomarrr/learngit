@@ -1,1 +1,7 @@
 Dies ist eine erste Änderung dieses Text Files
+
+Also lass uns hier einen Text hinzufügen.
+
+Lass uns noch eine Zeile hinzufügen, um weiter zu arbeiten.
+
+Add another change.
